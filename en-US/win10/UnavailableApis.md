@@ -107,7 +107,6 @@ lang: en-US
     Windows.Media.Protection.PlayReady.PlayReadyMeteringReportServiceRequest
     Windows.Media.Protection.PlayReady.PlayReadyRevocationServiceRequest
     Windows.Media.Protection.PlayReady.PlayReadySoapMessage
-    Windows.Media.SpeechRecognition.SpeechRecognizer
     Windows.Media.SystemMediaTransportControls
     Windows.Networking.NetworkOperators.HotspotAuthenticationContext
     Windows.Networking.NetworkOperators.MobileBroadbandAccountWatcher
